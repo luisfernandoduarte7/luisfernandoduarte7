@@ -1,7 +1,6 @@
 ## Olá! Eu sou o Luís Fernando
 
-👨‍💻 Desenvolvedor Full Stack
-
+- 👨‍💻 Desenvolvedor Full Stack
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
