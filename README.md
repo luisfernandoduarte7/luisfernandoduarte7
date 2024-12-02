@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Luís Fernando
 
 ## Sobre:
-- 👨‍💻 Desenvolvedor Full Stack,com experiencia desenvolver APIs e gerenciamento na construção de banco de dados
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 Desenvolvedor Full Stack, com experiencia em desenvolver APIs
+- 💻 Criando projetos
+- 👨‍🎓 Buscando aprimorar meus conhecimentos
+- 😄 Pronouns: ele/dele
