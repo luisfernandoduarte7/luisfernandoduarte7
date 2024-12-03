@@ -9,7 +9,8 @@
 ## GitHub Estátisticas:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisfernandoduarte7&theme=highcontrast&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisfernandoduarte7&layout=compact)
-<i class="devicon-angular-plain colored"></i>
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
 
 
 
