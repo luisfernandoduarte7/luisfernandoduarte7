@@ -25,7 +25,7 @@
   <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg">
    <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg">
   <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,angular,java,spring,bootstrap,idea,postgres&theme=light" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,angular,java,spring,bootstrap,idea,junit,postgres&theme=light" />
 </div>
 </div>
 
