@@ -10,8 +10,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisfernandoduarte7&theme=highcontrast&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisfernandoduarte7&layout=compact)
 <div align="">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,angular,java,spring,bootstrap,idea,postgres&theme=light" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" height="48"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,angular,java,spring,bootstrap,idea,postgres,flutter&theme=light" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-plain.svg" height="48"/>
 </div>
 </div>
 
